@@ -1,0 +1,14 @@
+body
+{
+    font-size: 30px;
+}
+.sp{
+    border: 3rem;
+    border-color: aqua;
+    background-color: blue;
+}
+.m_div{
+    border: 2px solid green;
+    background-color: aquamarine;
+    
+}
